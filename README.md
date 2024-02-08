@@ -37,7 +37,7 @@ Step 1:
 We received 3 orders files in "Incoming Files" folder
 ![image](https://github.com/vinaytekkur/Ecommerce_Project/assets/156997918/e32b680d-a783-47f8-ac0d-b836fd2a98e9)
 
-orders_1 files couple of issues.
+orders_1 file has couple of issues.
 Issue 1: City not Bangalore or mumbai
 Issue 2: Order date contains future date(2028 year year date observed)
 Issue 3: Sales amount in incorrect.
